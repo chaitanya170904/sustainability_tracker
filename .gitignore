@@ -1,0 +1,16 @@
+# Python related
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+
+# Django stuff:
+*.log
+db.sqlite3
+
+# Node and React related :
+node_modules/
+build/
+
+# Other files:
+.env
