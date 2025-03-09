@@ -3,7 +3,6 @@ from rest_framework import viewsets
 from .models import Action
 from .serializers import ActionSerializer
 
-# Create your views here.
 
 class ActionViewSet(viewsets.ModelViewSet):
     queryset = Action.objects.all()
