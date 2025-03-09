@@ -35,7 +35,6 @@ venv\Scripts\activate
 # Install dependencies and start server
 cd backend
 pip install -r requirements.txt
-python manage.py migrate
 python manage.py runserver
 ```
 
