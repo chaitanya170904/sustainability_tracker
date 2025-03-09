@@ -59,7 +59,7 @@ The application will open automatically in your browser at http://localhost:3000
 
 1. The homepage will show you an overview of sustainable actions
 2. Use the "Add Action" button to record new sustainable activities
-3. View your total impact points at the top of the dashboard
+3. View your total impact points at the top of the sustainable actions table
 
 ## Stopping the Application
 
