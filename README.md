@@ -36,6 +36,7 @@ venv\Scripts\activate
 cd backend
 pip install -r requirements.txt
 python manage.py runserver
+python manage.py runserver
 ```
 
 The backend server will start at http://localhost:8000
