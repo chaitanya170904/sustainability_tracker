@@ -17,7 +17,7 @@ Make sure you have installed:
 2. Navigate to where you want to store the project
 3. Run this command:
 ```powershell
-git clone https://github.com/chaitanya170904/sustainablity_tracker.git
+git clone https://github.com/chaitanya170904/sustainablity_tracker
 cd sustainablity_tracker
 ```
 
