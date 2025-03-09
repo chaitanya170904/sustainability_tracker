@@ -1,4 +1,4 @@
-# Green Steps - Quick Start Guide
+# Sustainability Tracker - Quick Start Guide
 
 This guide will help you run the application on your local computer.
 
