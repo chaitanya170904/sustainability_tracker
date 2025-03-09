@@ -18,7 +18,7 @@ Make sure you have installed:
 3. Run this command:
 ```powershell
 git clone https://github.com/chaitanya170904/sustainability_tracker
-cd sustainablity_tracker
+cd sustainability_tracker
 ```
 
 ### Step 1: Start the Backend Server
