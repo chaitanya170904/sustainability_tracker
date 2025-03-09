@@ -25,8 +25,7 @@ cd sustainability_tracker
 
 1. Open a new terminal/command prompt
 2. Navigate to the project folder
-3. Navigate to the backend folder
-4. Run these commands:
+3. Run these commands:
 ```Command Prompt
 # Create and activate virtual environment
 python -m venv venv
@@ -45,8 +44,7 @@ The backend server will start at http://localhost:8000
 
 1. Open another terminal/command prompt
 2. Navigate to the project folder
-3. Navigate to the frontend folder
-4. Run these commands:
+3. Run these commands:
 ```Command Prompt
 cd frontend
 npm install
