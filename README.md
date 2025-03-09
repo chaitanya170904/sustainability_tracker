@@ -30,7 +30,7 @@ cd sustainablity_tracker
 ```Command Prompt
 # Create and activate virtual environment
 python -m venv venv
-.\venv\Scripts\activate
+venv\Scripts\activate
 
 # Install dependencies and start server
 cd backend
